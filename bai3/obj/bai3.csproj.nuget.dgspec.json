@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\OneDrive\\Desktop\\hoà\\thiết kế back-end\\lab 1.1\\bai3\\bai3.csproj": {}
+    "C:\\Users\\pc\\OneDrive\\Desktop\\hoà\\thiết kế back-end\\lab 1.2\\bai3\\bai3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\OneDrive\\Desktop\\hoà\\thiết kế back-end\\lab 1.1\\bai3\\bai3.csproj": {
+    "C:\\Users\\pc\\OneDrive\\Desktop\\hoà\\thiết kế back-end\\lab 1.2\\bai3\\bai3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Desktop\\hoà\\thiết kế back-end\\lab 1.1\\bai3\\bai3.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Desktop\\hoà\\thiết kế back-end\\lab 1.2\\bai3\\bai3.csproj",
         "projectName": "bai3",
-        "projectPath": "C:\\Users\\pc\\OneDrive\\Desktop\\hoà\\thiết kế back-end\\lab 1.1\\bai3\\bai3.csproj",
+        "projectPath": "C:\\Users\\pc\\OneDrive\\Desktop\\hoà\\thiết kế back-end\\lab 1.2\\bai3\\bai3.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\OneDrive\\Desktop\\hoà\\thiết kế back-end\\lab 1.1\\bai3\\obj\\",
+        "outputPath": "C:\\Users\\pc\\OneDrive\\Desktop\\hoà\\thiết kế back-end\\lab 1.2\\bai3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
